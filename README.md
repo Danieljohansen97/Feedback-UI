@@ -1,3 +1,7 @@
+# Progress
+
+02.11.2022: Completed episode 1 - 17. Continuing from episode 18 next time.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
